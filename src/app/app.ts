@@ -230,7 +230,7 @@ export class App implements OnInit, AfterViewInit {
   ];
 
   stats = [
-    { value: '16+', label: 'Years Experience' },
+    { value: '8+', label: 'Years Experience' },
     { value: '5+', label: 'Companies' },
     { value: '20+', label: 'Technologies' },
     { value: 'MSc', label: 'Degree' }
